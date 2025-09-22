@@ -5,6 +5,3 @@
 - Importância da proteção de dados e da conscientização contra ameaças digitais.  
 - Noções básicas de ameaças, vulnerabilidades e boas práticas de segurança.  
 
-### Próximos Passos
-➡️ Início do curso de Redes de Computadores (SENAI).
-
